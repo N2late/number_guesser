@@ -1,10 +1,12 @@
 # Number Guesser
 
+## Scope
+
 - My first project at the Codecademy's Full-Stack Engineer path.
 
-## Details
+## Overview
 
-Small guessing game played between the computer and the user in order to guess a target number. The one with the guess closer to it wins. 
+Small guessing game played between the computer and the user in order to guess a target number. The one with the closer guess wins. 
 
 ### Note: 
  - The script.js was made by me. 
