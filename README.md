@@ -1,3 +1,7 @@
-# project1_codecademy
-The script.js was made by me. 
-The other files were already given by codecademy to solve the project.
+# Number Guesser
+
+- My first project at the Codecademy's Full-Stack Engineer path.
+
+### Note: 
+ - The script.js was made by me. 
+ - The other files were provided by Codecademy to solve the project.
